@@ -1,0 +1,26 @@
+h1 {
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.form {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.form__fieldset {
+    border: none;
+}
+
+.form__label {
+    font-weight: 700;
+}
+
+.form__input {
+    width: 100%;
+}
+
+.form__fieldset div {
+    padding:0 20px 20px 20px;
+    border: 1px solid silver;
+}
